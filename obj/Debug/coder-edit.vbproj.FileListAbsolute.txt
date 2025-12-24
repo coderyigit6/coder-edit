@@ -1,0 +1,12 @@
+C:\Users\yigit\source\repos\coder-edit\bin\Debug\coder-edit.exe.config
+C:\Users\yigit\source\repos\coder-edit\bin\Debug\coder-edit.exe
+C:\Users\yigit\source\repos\coder-edit\bin\Debug\coder-edit.pdb
+C:\Users\yigit\source\repos\coder-edit\bin\Debug\coder-edit.xml
+C:\Users\yigit\source\repos\coder-edit\obj\Debug\coder-edit.vbproj.AssemblyReference.cache
+C:\Users\yigit\source\repos\coder-edit\obj\Debug\coder_edit.Form1.resources
+C:\Users\yigit\source\repos\coder-edit\obj\Debug\coder_edit.Resources.resources
+C:\Users\yigit\source\repos\coder-edit\obj\Debug\coder-edit.vbproj.GenerateResource.cache
+C:\Users\yigit\source\repos\coder-edit\obj\Debug\coder-edit.vbproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\coder-edit\obj\Debug\coder-edit.exe
+C:\Users\yigit\source\repos\coder-edit\obj\Debug\coder-edit.xml
+C:\Users\yigit\source\repos\coder-edit\obj\Debug\coder-edit.pdb
