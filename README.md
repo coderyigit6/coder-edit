@@ -3,14 +3,19 @@ My editor made with Visual Basic and WinForms
 
 # Screenshots
 
-<img width="2725" height="1537" alt="Ekran görüntüsü 2025-12-24 222820" src="https://github.com/user-attachments/assets/992a138f-3e7c-4f60-8339-462fd8cbdcf5" />
+<img width="2725" height="1537" alt="Ekran görüntüsü 2025-12-24 222820" src="https://github.com/user-attachments/assets/b6fcfee6-4628-4c74-bdb6-8683412328f7" />
 
-<img width="2666" height="1468" alt="Ekran görüntüsü 2025-12-24 222859" src="https://github.com/user-attachments/assets/0bbf97e9-235b-4295-ae35-c3d4cf5f449c" />
+<img width="2666" height="1468" alt="Ekran görüntüsü 2025-12-24 222859" src="https://github.com/user-attachments/assets/b4b322cf-9963-47f2-b1b1-bff6da1144c2" />
 
-<img width="1804" height="1021" alt="Ekran görüntüsü 2025-12-24 222917" src="https://github.com/user-attachments/assets/20eb1c18-7c4d-443d-b45c-5341367dba5c" />
+<img width="1804" height="1021" alt="Ekran görüntüsü 2025-12-24 222917" src="https://github.com/user-attachments/assets/a9d6be6a-ee77-4181-b8fb-17326d6f4b53" />
 
 # Legal Info
 This application is licensed under the GNU General Public License,so you can modify this program,make another program based on this program,etc.
 
 # How This App Is Made ?!?!?!
 Using Visual Studio 2026 Community and WinForms template with Visual Basic.
+
+# Release Notes of December 28,2025
+"New" menu item added so we can create new text files easily now.That's all.
+
+Stay tuned for next updates!
