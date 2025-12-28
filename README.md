@@ -9,6 +9,8 @@ My editor made with Visual Basic and WinForms
 
 <img width="1804" height="1021" alt="Ekran görüntüsü 2025-12-24 222917" src="https://github.com/user-attachments/assets/a9d6be6a-ee77-4181-b8fb-17326d6f4b53" />
 
+<img width="2702" height="1536" alt="Ekran görüntüsü 2025-12-28 184236" src="https://github.com/user-attachments/assets/18b87751-69c5-4c9d-a722-03db2221c6ad" />
+
 # Legal Info
 This application is licensed under the GNU General Public License,so you can modify this program,make another program based on this program,etc.
 
